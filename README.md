@@ -39,7 +39,7 @@ This portfolio presents my:
 - Contact Details
 - Professional Profile
 
-##  contact
+##  Contact
 
 **Mahnoor Fatima**
 
